@@ -1,4 +1,5 @@
 // https://www.codewars.com/kata/5715eaedb436cf5606000381/train/javascript 
+//https://www.codewars.com/kata/5715eaedb436cf5606000381/solutions/javascript
 // сумма положительных элементов массива
 function positiveSum(arr) {
     
